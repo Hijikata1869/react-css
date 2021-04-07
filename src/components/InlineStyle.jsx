@@ -5,7 +5,8 @@ export const InlineStyle = () => {
     padding: "8px",
     display: "flex",
     justifyContent: "space-around",
-    alignItems: "center"
+    alignItems: "center",
+    marginBottom: "10px"
   };
   const titleStyle = {
     margin: 0,
